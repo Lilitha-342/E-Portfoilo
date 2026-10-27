@@ -29,7 +29,7 @@ Artefacts
 
 Agile Team Charter; User Stories and Tasks; Product Backlog; Sprint Backlog; Agile Logbook; Reflections and supporting evidence.
 
-##Portfolio overview
+## Portfolio overview
 
 This portfolio consolidates the saved E-Khaya Connect logbooks, presentation and Khayelitsha WISP solution artefacts. Where formal agreements or assignments were not explicitly recorded, the content is marked as a proposed working version for the group to confirm.
 
